@@ -258,4 +258,4 @@ This repository serves as the official landing page for Biblio. The software is 
 **Get the most recent version of Biblio today!**
 
 ---
-**Last updated:** 2026-09-27 12:39:59 UTC
+**Last updated:** 2026-09-27 17:25:04 UTC
